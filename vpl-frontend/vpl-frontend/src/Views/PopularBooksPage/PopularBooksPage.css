@@ -1,0 +1,54 @@
+:root {
+    --border-color: #000;
+    --grey: #2d2e2e;
+    --btn-blue: #3891a6;
+    --btn-text-white: #fbfbfb;
+    --body-color: #b0c4de;
+    --inner-container-color: #add8e6;
+    --container-color: #6bbeba;
+    --text-color: #0a232b;
+  }
+.page-popular-books{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.popular-page-title{
+    font-size: 2.6em;
+    color: var(--text-color);
+}
+.popular-page-book-container{
+    background-color: var(--container-color);
+    width: 700px;
+    height: 580px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+.popular-page-book-details{
+    background-color: var(--inner-container-color);
+    color: var(--text-color);
+    font-size: 2.2em;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 480px
+}
+.popular-page-book-checkout-btn{
+    border-radius: 10px;
+    font-size: 1.5em;
+    background-color: var(--btn-blue);
+    color: var(--btn-text-white);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.popular-page-home-button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.popular-page-back-btn{
+    background-color: var(--btn-blue);
+    border-radius: 10px;
+    font-size: 1.8em;
+    width: 120px;
+    color: var(--btn-text-white);
+}

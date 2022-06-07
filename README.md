@@ -11,20 +11,20 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 -PostgreSQL
 
 # As a user, the user cam
--Register new account, receive welcome email
--Login/Logout
--View Homepage
--View/Edit user’s information
--Checkout Book 
--View list of previously checked out books
--Search books by title, author, genre, ISBN, etc.
+- Register new account, receive welcome email
+- Login/Logout
+- View Homepage
+- View/Edit user’s information
+- Checkout Book 
+- View list of previously checked out books
+- Search books by title, author, genre, ISBN, etc.
 
 # As an owner, the user cam
--Login/Logout
--Add new books
--Delete books by ISBN
--Edit uploaded books’ info
--View all registered users’ information
+- Login/Logout
+- Add new books
+- Delete books by ISBN
+- Edit uploaded books’ info
+- View all registered users’ information
 
 # Getting Started
 Setting the database 

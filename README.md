@@ -50,6 +50,8 @@ Open the vpl-frontend folder using Visual Studio Code
 
 # Testing
 - Have over 79% test coverage of service classes
+![alt text](TestCases.png)
+
 
 
 # Future Feathers

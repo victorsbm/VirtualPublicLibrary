@@ -41,7 +41,7 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 # Getting Started
 Setup the database following the below image, frontend folder, and backend folder with AWS RDS, and EC2.
 
-![alt text](ER Diagram.JPG)
+![alt text](ER%20Diagram.JPG)
 
 Open the VirtualPublicLibrary folder using Intellij, create file named application.properties into following path: Project1\Project01\app\src\main\resources
 

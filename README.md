@@ -16,6 +16,7 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 - Register new account, receive welcome email
 - Login/Logout
 - View Homepage
+- ![alt text](home_page_image.JPG)
 - View/Edit user’s information
 - Checkout Book 
 - View list of previously checked out books
@@ -29,27 +30,13 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 - View all registered users’ information
 
 # Getting Started
-Setting the database 
+Setup the database following the below image, frontend folder, and backend folder with AWS RDS, and EC2.
 
 ![alt text](ER Diagram.JPG)
 
 Open the VirtualPublicLibrary folder using Intellij, create file named application.properties into following path: Project1\Project01\app\src\main\resources
 
 Open the vpl-frontend folder using Visual Studio Code
-
-# Showcases
-- Home page
-![alt text](home_page_image.JPG)
-
-- Account information page
-![alt text](info_page_image.JPG)
-
-- Search page
-![alt text](search_page_image.JPG)
-
-- Popular page result
-![alt text](popularbooks_page_image.JPG)
-
 
 
 # Testing

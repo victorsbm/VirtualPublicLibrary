@@ -60,9 +60,9 @@ Open the vpl-frontend folder using Visual Studio Code
 
 
 # Contributors
--Chime Palden - https://github.com/chimepalden
--Darryl Robles - https://github.com/S1m1ster 
--Joseph Link - https://github.com/jj-link
--Yue McNelis - https://github.com/yuemcn
+- Chime Palden - https://github.com/chimepalden
+- Darryl Robles - https://github.com/S1m1ster 
+- Joseph Link - https://github.com/jj-link
+- Yue McNelis - https://github.com/yuemcn
 
 

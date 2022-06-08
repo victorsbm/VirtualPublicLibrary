@@ -10,7 +10,7 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 - Spring Data
 - PostgreSQL
 
-# As a user, the user cam
+# As a user, the user can
 - Register new account, receive welcome email
 - Login/Logout
 - View Homepage
@@ -19,7 +19,7 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 - View list of previously checked out books
 - Search books by title, author, genre, ISBN, etc.
 
-# As an owner, the user cam
+# As an owner, the user can
 - Login/Logout
 - Add new books
 - Delete books by ISBN

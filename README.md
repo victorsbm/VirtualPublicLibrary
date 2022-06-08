@@ -2,13 +2,13 @@
 Virtual library system is virtual library in online. Users can search eBooks in library and checkout their favorite books. And there is a role called owner, who can manage e-book inventory.
 
 # Technologies Used
--Java
--React
--AWS EC2
--Hibernate
--Spring Boot
--pring Data
--PostgreSQL
+- Java
+- React
+- AWS EC2
+- Hibernate
+- Spring Boot
+- Spring Data
+- PostgreSQL
 
 # As a user, the user cam
 - Register new account, receive welcome email

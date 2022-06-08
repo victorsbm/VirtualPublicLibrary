@@ -14,13 +14,22 @@ Virtual library system is virtual library in online. Users can search eBooks in 
 
 # As a user, the user can
 - Register new account, receive welcome email
+
+![alt text](registration_page_image.JPG)
+
 - Login/Logout
 - View Homepage
-- ![alt text](home_page_image.JPG)
+
+![alt text](home_page_image.JPG)
+
+
 - View/Edit user’s information
 - Checkout Book 
 - View list of previously checked out books
 - Search books by title, author, genre, ISBN by using search bar 
+
+![alt text](search_bar_image.JPG)
+
 
 # As an owner, the user can
 - Login/Logout
